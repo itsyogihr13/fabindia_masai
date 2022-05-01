@@ -1,5 +1,5 @@
 # Fabindia Clone
-You can see live here - https://fabindia-mainclone.netlify.app/
+You can see live here - https://fabindia-masai.vercel.app/
 
 <p> Fabindia is an E-commerce website where we can buy clothes made with traditional techniques online. We can filter the dresses by costs, Price Range etc..We can add the items in carts and wishlist then buy the products by checking out.<p/>
 
